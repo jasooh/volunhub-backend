@@ -1,0 +1,7 @@
+# Environment variables
+.env
+.env.*
+
+# Supabase config (CLI-only)
+supabase/config.toml
+supabase/.temp/
